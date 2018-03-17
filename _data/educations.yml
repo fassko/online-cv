@@ -1,10 +1,14 @@
 - education:
+  degree: Phd in Computer Science (Unfinished studies)
+  university: University of Latvia
+  time: 2010 – 2012
+- education:
   degree: MSc in Computer Science
   university: University of Latvia
   time: 2008 – 2010
-  details: "Final thesis about iOS Development"
+  details: "Final thesis about iOS Development with maximum grade"
 - education:
   degree: BSc in Computer Science
   university: University of Latvia
   time: 2004 – 2008
-  details: "Final thesis about iOS Development"
+  details: "Final thesis about iPhone SDK beta with maximum grade"
