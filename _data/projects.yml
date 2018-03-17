@@ -8,12 +8,12 @@ projects:
   - project:
     title: MeteoTartu app for iOS, tvOS, watchOS
     link: "https://itunes.apple.com/us/app/meteo-tartu/id1082204986?mt=8"
-    tagline:
+    tagline: Application to show data from the weatherstation that has been working since the Ocober of 1999 in Tartu, Estonia, at the roof of the Physics department on the University of Tartu.
   - project:
     title: Dodies.lv iOS app
     link: "https://itunes.apple.com/us/app/dodies-lv/id1080800199?mt=8"
-    tagline:
+    tagline: Dodies.lv is a place to find hiking and walking trails and paths in Latvia. We also list trails, picnic places, campgrounds and birdwatching towers.
   - project:
     title: Weather Latvia iOS app
     link: "https://itunes.apple.com/us/app/weather-latvia/id1350252673?mt=8"
-    tagline:
+    tagline: Meteo Latvia shows current weather observations in Latvia. Data comes from Latvian Environment, Geology and Meteorology Centre.
