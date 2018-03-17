@@ -1,9 +1,9 @@
 - interest:
-  item: Climbing
+  item: Orienteering sport
+  link: https://en.wikipedia.org/wiki/Orienteering
+- interest:
+  item: Cycling
   link:
 - interest:
-  item: Snowboarding
-  link:
-- interest:
-  item: Cooking
-  link:
+  item: Geocaching
+  link: https://www.geocaching.com/blog/2018/03/what-is-geocaching/
